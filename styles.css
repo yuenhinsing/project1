@@ -151,7 +151,7 @@ body {
     background-color: #E5E7EB;
     display: flex;
     justify-content: center;
-    padding: 100px 200px
+    padding: 120px 200px
 }
 
 .quote {
@@ -160,7 +160,7 @@ body {
 
 .quote > p {
     font-size: 36px;
-    font-weight: 300;
+    font-weight: 200;
     font-style: italic;
 }
 
@@ -181,12 +181,8 @@ body {
     border-radius: 20px;
 }
 
-.call-to-action-left {
-
-}
-
 .call-to-action-left > h3 {
-    color: #F9FAF8
+    color: #E5E7EB
 }
 
 .call-to-action-left > p {
